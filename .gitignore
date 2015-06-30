@@ -47,3 +47,4 @@ Temporary Items
 # My files
 .RData
 .Rhistory
+CrowdFlower/Output/*.*
