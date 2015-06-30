@@ -49,3 +49,5 @@ Temporary Items
 .Rhistory
 CrowdFlower/Output/*.*
 Otto/Output/*.*
+Denoising/Output/*.*
+Denoising/Data/*.*
