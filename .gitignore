@@ -51,3 +51,4 @@ CrowdFlower/Output/*.*
 Otto/Output/*.*
 Denoising/Output/*.*
 Denoising/Data/*.*
+Denoising/Data/**/*.*
