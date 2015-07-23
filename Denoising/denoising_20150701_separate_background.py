@@ -87,7 +87,7 @@ print ('Cleaning of the test images is completed');
 
 print('Preparing submission file...');
 
-submission = gzip.open(out_path+'\\'+'Submission.csv.gz',"wt");
+submission = gzip.open(out_path+'\\'+'Submission.csv.gz',"wb");
 submission.write("id,value\n");
 
 for f in os.listdir(test_path):
